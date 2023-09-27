@@ -1,7 +1,7 @@
 # Stardew Valley Quiz Web-App
 
 ## Enlace:
-* 🌱 https://stwvalleyquiz.netlify.app/
+* 🌱 https://stardew-valley-quiz.netlify.app/
 
 ## Info:
 * Quiz sobre el juego Stardew Valley, si no lo conoces ve ahora mismo a tu dispositivo favorito y juega!
