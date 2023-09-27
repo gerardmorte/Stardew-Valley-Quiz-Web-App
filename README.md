@@ -1,2 +1,2 @@
-# Stardew Valley Quiz
-🌱 https://stardew-valley-quiz.netlify.app/
+# Stardew Valley Quiz 🌱
+https://stardew-valley-quiz.netlify.app/
